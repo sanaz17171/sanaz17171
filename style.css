@@ -1,0 +1,12 @@
+body, html {
+    background-color: yellow;
+}
+h1 {
+    color: red;
+    font-size: 50px;
+}
+.blurb {
+    color: green;
+    padding-left: 10vw;
+   
+}
